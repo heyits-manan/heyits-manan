@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Yoo 👋, It's Manan Chataut</h1>
-<h3 align="center">Developer with little industry experience but a huge skillset!</h3>
+<h3 align="center">DEVELOPER WITH LITTLE INDUSTRY EXPERIENCE BUT A HUGE SKILLSET!</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
