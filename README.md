@@ -32,7 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyits-manan&show_icons=true&locale=en&layout=compact" alt="heyits-manan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heyits-manan&show_icons=true&locale=en" alt="heyits-manan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyits-manan&" alt="heyits-manan" /></p>
 
