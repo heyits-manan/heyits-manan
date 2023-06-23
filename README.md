@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyits-manan](https://github.com/heyits-manan)
 
-- 📫 How to reach me **mananchataut@gmail.com**
+- 📫 Reach me at **mananchataut@gmail.com**
 
-- ⚡ Fun fact **I love Starbucks**
+- ⚡ Fun fact: **I love Starbucks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
