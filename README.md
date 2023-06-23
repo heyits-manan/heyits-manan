@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/heyitsmanan" target="blank"><img src="https://img.shields.io/twitter/follow/heyitsmanan?logo=twitter&style=for-the-badge" alt="heyitsmanan" /></a> </p>
 
-- 🔭 I’m currently working on **Fusion Tech LLC**
+<!-- - 🔭 I’m currently working on **Fusion Tech LLC** -->
 
 - 🌱 I’m currently learning **React, Data Structures and Algorithms, Mongodb**
 
