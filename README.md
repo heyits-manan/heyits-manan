@@ -11,7 +11,7 @@
 
 <!-- - 🔭 I’m currently working on **Fusion Tech LLC** -->
 
-- 🌱 I’m currently learning **React & Data Structures **
+- 🌱 I’m currently learning **React & Data Structures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyits-manan](https://github.com/heyits-manan)
 
