@@ -1,17 +1,16 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/c9670d23-e85c-419a-a35e-67d348270221)
 
 
-<h1 align="center">Yoo 👋, It's Manan Chataut</h1>
-<h3 align="center">DEVELOPER WITH LITTLE EXPERIENCE BUT A HUGE SKILLSET!</h3>
+<h1 align="center">Manan Chataut | Full-Stack Developer</h1>
+<h3 align="center">React, Tailwind, Next, Node, Express, MongoDB, Spring Boot, Microservices</h3>
 
 <br>
 
 
 <p align="left"> <a href="https://twitter.com/MananChataut" target="blank"><img src="https://img.shields.io/twitter/follow/mananchataut?logo=twitter&style=for-the-badge" alt="@MananChataut" /></a> </p>
 
-<!-- - 🔭 I’m currently working on **Fusion Tech LLC** -->
 
-- 🌱 I’m currently learning **Full-Stack WebDev & Data Structures**
+- 🌱 Currently learning **Back-End** and **Blockchain Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyits-manan](https://github.com/heyits-manan)
 
