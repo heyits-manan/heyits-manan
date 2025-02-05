@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Manan Chataut | Full-Stack Developer</h1>
-<h3 align="center">React, Tailwind, Next, Node, Express, MongoDB, Spring Boot, Microservices</h3>
+<h3 align="center">React, Tailwind, Next, Node, Express, MongoDB, NeonDB, Spring Boot, Microservices</h3>
 
 <br>
 
@@ -10,13 +10,11 @@
 <p align="left"> <a href="https://twitter.com/MananChataut" target="blank"><img src="https://img.shields.io/twitter/follow/mananchataut?logo=twitter&style=for-the-badge" alt="@MananChataut" /></a> </p>
 
 
-- 🌱 Currently learning **Back-End** and **Blockchain Technology**
-
 - 👨‍💻 All of my projects are available at [https://github.com/heyits-manan](https://github.com/heyits-manan)
 
 - 📫 Reach me at **mananchataut@gmail.com**
 
-- ⚡ Fun fact: **I love Starbucks**
+- ⚡ Fun fact: **I love Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
