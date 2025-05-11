@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Manan Chataut | Full-Stack Developer</h1>
-<h3 align="center">React, Tailwind, Next, Node, Express, MongoDB, NeonDB, Spring Boot, Microservices</h3>
+<h3 align="center">React.js, Next.js, Typescript, TailwindCSS, Node.js, Express.js, Spring Boot, Git/Github, Docker, MongoDB, MySQL, PostgreSQL, RestAPI, GraphQL, NeonDB</h3>
 
 <br>
 
