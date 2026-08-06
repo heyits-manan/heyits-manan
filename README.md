@@ -7,4 +7,4 @@ i'm currently exploring scalable backend architectures, system design & cloud *(
 my interest in software started back in 9th grade after watching *iron man* —
 got inspired by jarvis, and never really stopped exploring since.
 
-feel free to connect with me @m7taut on X
+feel free to connect with me @manan_exe on X
